@@ -39,7 +39,7 @@ The paid codebase is positioned as an AI resume-builder MVP foundation.
 - AI resume analysis.
 - AI import assistance where provider/model support allows.
 - Agent thread that can propose structured resume edits.
-- Reversible JSON Patch-based resume changes.
+- Reversible resume change workflow.
 
 ## Buyer Handoff
 

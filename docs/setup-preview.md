@@ -12,19 +12,9 @@ This is a public preview. The full setup guide ships with the paid private sourc
 
 ## Typical Local Flow
 
-```bash
-corepack enable
-corepack pnpm install
-Copy-Item .env.example .env
-docker compose -f compose.dev.yml up -d postgres redis seaweedfs seaweedfs_create_bucket
-corepack pnpm --filter web dev
-```
+The paid package includes exact commands for installing dependencies, creating the local environment file, starting local services, and running the web app.
 
-Open:
-
-```text
-http://localhost:3000
-```
+This public showcase intentionally does not include the full command sequence or internal service map. Those details are reserved for paying buyers.
 
 ## What A Buyer Should Test
 
@@ -36,7 +26,7 @@ http://localhost:3000
 - Export JSON, DOCX, and PDF.
 - Try public sharing controls.
 - Add an AI provider with the buyer's own key.
-- Ask the AI agent to make a simple resume edit.
+- Run a simple AI-assisted resume edit.
 
 ## Production Reminder
 

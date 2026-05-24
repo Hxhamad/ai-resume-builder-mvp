@@ -5,12 +5,12 @@ This is a public preview of the paid handoff. The full handoff document ships wi
 ## Included In The Paid Package
 
 - Full source code for the AI resume-builder MVP.
-- Local Docker Compose development stack.
-- Safe `.env.example`.
+- Local development setup guide.
+- Sanitized environment template.
 - Setup guide.
-- Environment variable documentation.
+- Configuration documentation.
 - AI provider setup guide.
-- Deployment notes.
+- Practical deployment notes.
 - Demo script.
 - Smoke-test checklist.
 - Rebranding guide.

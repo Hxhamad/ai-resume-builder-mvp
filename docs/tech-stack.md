@@ -13,7 +13,7 @@ The paid package is a full-stack TypeScript application, not a static template.
 ## Backend And Data
 
 - PostgreSQL
-- Drizzle ORM and migrations
+- Database persistence layer
 - Redis for AI agent state
 - S3-compatible storage support
 - Local filesystem storage fallback where configured
@@ -30,17 +30,15 @@ The paid package is a full-stack TypeScript application, not a static template.
 - AI SDK provider integrations
 - OpenAI, Anthropic, Gemini, OpenRouter, Vercel AI Gateway, Ollama, and OpenAI-compatible provider setup patterns
 - Server-side encrypted provider credentials in the private package
-- JSON Patch-based agent edit flow
+- Structured agent edit flow
 
 ## Tooling
 
-- pnpm
-- Turborepo
 - Vitest
 - Testing Library
 - Biome
 - GitHub CI
-- Docker Compose for local services
+- Local service orchestration in the private package
 
 ## Local Services
 

@@ -58,8 +58,8 @@ Replace these placeholder images with real screenshots before launch.
 - Public resume sharing controls with privacy-oriented copy.
 - AI provider setup with buyer-owned API keys.
 - AI resume agent that can propose and apply structured resume edits.
-- Docker Compose local development stack.
-- Buyer-facing documentation for setup, AI, deployment, rebranding, demo, handoff, and limitations.
+- Documented local development workflow in the paid package.
+- Buyer-facing documentation for setup, AI configuration, rebranding, demo, handoff, and limitations.
 
 Read the full feature preview: [docs/features.md](./docs/features.md)
 
@@ -67,7 +67,6 @@ Read the full feature preview: [docs/features.md](./docs/features.md)
 
 - TypeScript monorepo
 - React / TanStack Start / Vite
-- pnpm and Turborepo
 - PostgreSQL with Drizzle
 - Redis for AI agent state
 - S3-compatible storage support
@@ -84,9 +83,9 @@ The paid package includes the private source code and buyer handoff documentatio
 Private package highlights:
 
 - Full application source code
-- Safe `.env.example`
-- Local Docker Compose setup
-- Setup and environment docs
+- Sanitized environment template
+- Local development setup guide
+- Setup and configuration docs
 - AI provider setup docs
 - Demo script
 - Deployment notes

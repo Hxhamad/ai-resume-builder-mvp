@@ -20,7 +20,7 @@ This is an honest preview of the paid MVP package. The goal is buyer trust, not 
 ## Technical Limitations
 
 - Internal package names may retain legacy workspace naming in the private codebase.
-- A full internal namespace migration is intentionally avoided in the MVP package to reduce risk.
+- A full internal namespace rename is intentionally avoided in the MVP package to reduce risk.
 - Non-English locale files may need a full buyer-side copy review if multilingual launch matters.
 - Local development credentials are demo defaults and must not be reused in production.
 - Public production use requires additional review of backups, security headers, CORS, rate limits, SSRF controls, logging, and secret rotation.

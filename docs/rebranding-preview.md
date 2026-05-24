@@ -27,4 +27,4 @@ Keep the first buyer rebrand conservative:
 
 ## Namespace Note
 
-The private source package may retain legacy internal package names. That is acceptable for an MVP handoff. A full namespace migration can be done later, but it is not necessary for a buyer demo or first launch.
+The private source package may retain legacy internal package names. That is acceptable for an MVP handoff. A full namespace rename can be done later, but it is not necessary for a buyer demo or first launch.
