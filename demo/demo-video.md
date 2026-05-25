@@ -1,10 +1,8 @@
-# Demo Video Placeholder
+# Demo Video
 
-Add the final demo video URL here before publishing the showcase repo.
+Current demo testing showcase:
 
-```text
-TODO: Add demo video URL.
-```
+[Watch on Descript](https://share.descript.com/view/SJGbJ0Qe9nS)
 
 Recommended length: 3 to 6 minutes.
 

@@ -6,6 +6,7 @@
 - Added buyer-facing README, FAQ, license summary, limitations, and docs previews.
 - Added demo-video placeholder document.
 - Added placeholder screenshot files for homepage, dashboard, editor, AI agent, export/share, and buyer docs.
+- Added Descript demo testing showcase link.
 
 ## Before Public Launch
 

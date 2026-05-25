@@ -26,13 +26,11 @@ AI Resume Builder MVP Codebase - Resume Editor, AI Agent, Auth, Preview, Exports
 
 ## Demo Video
 
-Demo video:
+Demo testing showcase:
 
-```text
-TODO: Add YouTube, Loom, Vimeo, or Gumroad-hosted demo URL here.
-```
+[Watch the Descript demo testing showcase](https://share.descript.com/view/SJGbJ0Qe9nS)
 
-See [demo/demo-video.md](./demo/demo-video.md) for the recommended video structure.
+See [demo/demo-video.md](./demo/demo-video.md) for the demo outline and final launch notes.
 
 ## Screenshots
 
